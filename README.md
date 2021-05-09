@@ -24,7 +24,7 @@ npm start
 ```
 
 ## Dependencies
-Before running, machine must have Node.js installed on it.
+To run the code, machine must have Node.js installed on it.
 
 ## Credits
 
