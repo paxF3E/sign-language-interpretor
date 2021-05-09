@@ -28,6 +28,6 @@ To run the code, machine must have Node.js installed on it.
 
 ## Credits
 
-usage of TensorFlow was learned from Abhishek Singh's "alexa-sign-language-translator"
-The kNN Classifier used for this project was created by Google TensorFlow
+usage of TensorFlow was learned from Abhishek Singh's "alexa-sign-language-translator"<br>
+The kNN Classifier used for this project was created by Google TensorFlow<br>
 Animate.css originally authored by Nick Pettit - https://github.com/nickpettit/glide
